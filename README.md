@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JayaSaiReddy21
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java-Full-Stack development
+- 🌱 I’m currently learning JAVAFULLSTACK Course 
+- 
 - 
 
 <!---
