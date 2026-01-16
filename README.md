@@ -1,4 +1,2 @@
-Java Backend Engineer with 1+ year of experience building scalable and high-performance backend systems using
-Java and Spring Boot. Expertise in REST API design, backend validations, database integration, and transaction
-processing for FinTech applications. Strong in clean architecture and performance-aware backend development,
-focused on delivering reliable systems for product-based roles.
+Software Development Engineer in Test (SDET) with 1+ year of experience in automation and manual testing for enterprise applications. Strong hands-on experience in UI automation using Playwright and Selenium with JavaScript, TypeScript, and Java. Experienced in manual API testing, database validations using SQL, and validating end-to-end business workflows.
+Actively involved in Agile sprint execution, working on user stories, regression testing, and defect tracking using JIRA. Possesses strong understanding of backend systems and financial transaction workflows, enabling effective test coverage and early defect detection. Currently seeking SDET-1 / Automation Engineer roles in product-based companies with a focus on scalable and high-quality systems.
