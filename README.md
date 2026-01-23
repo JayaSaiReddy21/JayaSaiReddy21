@@ -1,2 +1,3 @@
-Software Development Engineer in Test (SDET) with 1+ year of experience in automation and manual testing for enterprise applications. Strong hands-on experience in UI automation using Playwright and Selenium with JavaScript, TypeScript, and Java. Experienced in manual API testing, database validations using SQL, and validating end-to-end business workflows.
-Actively involved in Agile sprint execution, working on user stories, regression testing, and defect tracking using JIRA. Possesses strong understanding of backend systems and financial transaction workflows, enabling effective test coverage and early defect detection. Currently seeking SDET-1 / Automation Engineer roles in product-based companies with a focus on scalable and high-quality systems.
+Java Full Stack Developer with 1+ year of experience building scalable backend systems 
+using Java and Spring Boot, along with hands-on experience in React-based frontend 
+applications. Skilled in REST API development, database integration, and Agile delivery.
